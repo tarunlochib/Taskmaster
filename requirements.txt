@@ -10,7 +10,7 @@ django-modelcluster==4.4
 django-taggit==0.24.0
 django-treebeard==4.3
 django-widget-tweaks==1.4.5
-djangorestframework==3.10.3
+djangorestframework==3.11.2
 draftjs-exporter==2.1.6
 Flask==1.1.1
 Flask-SQLAlchemy==2.4.1
